@@ -1,0 +1,6 @@
+/* fonts url */
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&family=Lato&family=Poppins:wght@400;500&family=Roboto&family=Smooch&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
